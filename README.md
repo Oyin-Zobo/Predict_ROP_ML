@@ -1,2 +1,6 @@
-# obisesan_OUDSA5900
-Name: Oyindamola Obisesan
+Predict Rop with ML Algoithms 
+Rate of Penetration (ROP) is a singular most important parameter during the drilling of an oil and gas well. Drilling days per thousand feet (DDPTF) is a measure of drilling performance. The DDPTF is highly influenced by the ROP which is why the ROP is a very important drilling variable. The aim of a drilling operation is to reduce drilling time i.e., maximize ROP and reduce drilling risk. There are approaches to optimize ROP, optimum drilling variables section prior to a run and real time optimization of ROP by varying Weight on Bit (WOB), Revolution Per Minute (RPM), Torque.
+There have been efforts (theoretical and experimental) to model ROP as a mathematical function of some variables, but this is not a trivial problem as it is a highly non-linear problem. The most common traditional ROP model (physics-based model) is the Bourgoyne and Young equation based on analytical equations. The physics made model attempts to understand the physical nature of well drilling, describing the drilling activities with analytical equations. This work aims to use machine learning algorithms to understand the relationship between these parameters and use this understanding to optimize the ROP.
+
+Technical Objectives:
+The plan of this work is however to predict and optimize the ROP and reduce drilling time by adjusting surface drilling parameters such as WOB, torque, surface RPM, flowrate, MSE, HSI. The importance to this is to understand the changes in ROP based on the drilling parameters. The objective is to access how some important variables (RPM, WOB, flowrates) affect drilling parameter; ROP. In this way, the ROP can be increased by tweaking the other drilling parameters.
